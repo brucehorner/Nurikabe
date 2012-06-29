@@ -1,0 +1,8 @@
+# size: width then height
+5,5
+
+# rooms: size, row , column
+3,3,5
+3,4,3
+4,5,1
+2,5,5

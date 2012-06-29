@@ -1,0 +1,12 @@
+# size: width then height
+puzzle-5x5-1.txt
+puzzle-5x5-2.txt
+puzzle-5x5-3.txt
+puzzle-5x5-4.txt
+puzzle-7x7-1.txt
+puzzle-20-Feb-2007.txt
+puzzle-10x10-1.txt
+puzzle-10x10-2.txt
+puzzle-10x10-3.txt
+
+
